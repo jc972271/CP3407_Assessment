@@ -1,5 +1,7 @@
 # Service Providers
-    -Manage bookings (Priority 10, Iteration 1) – Allow service providers to create, update, and cancel appointments efficiently.
+    -Create bookings (Priority 10, 2 days, Iteration 1) – Allow service providers to create appointments efficiently.
+    -Update bookings (Priority 10, 2 days, Iteration 1) – Allow service providers to edit appointments.
+    -Cancel bookings (Priority 10, 2 days, Iteration 1) – Allow service providers to delete bookings.
     -Track schedules (Priority 20, Iteration 1) – Provide a calendar-based view for tracking and managing work schedules.
     -Handle payments (Priority 10, Iteration 1) – Process payments securely, including invoices and transaction history.
     -Manage profiles (Priority 20, Iteration 1) – Enable providers to update business details, services, and availability.
