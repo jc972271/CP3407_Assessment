@@ -1,27 +1,25 @@
 # Service Providers
-    Manage bookings, priority 10, YY days, iteration 1
-    Track schedules, priority 20, YY days , iteration 1
-    Handle payments, priority 10, YY days, iteration 1
-    Manage profiles, priority 20, YY days, iteration 1
+    -Manage bookings (Priority 10, Iteration 1) – Allow service providers to create, update, and cancel appointments efficiently.
+    -Track schedules (Priority 20, Iteration 1) – Provide a calendar-based view for tracking and managing work schedules.
+    -Handle payments (Priority 10, Iteration 1) – Process payments securely, including invoices and transaction history.
+    -Manage profiles (Priority 20, Iteration 1) – Enable providers to update business details, services, and availability.
 
-    Client communication, priority 30, YY days, iteration 2
-    Analytics and reporting, priority 40, YY days, iteration 2
-
-    Inventory management, priority 40, YY days, iteration 2
+    -Client communication (Priority 30, Iteration 2) – Facilitate messaging or notifications between providers and clients.
+    -Analytics and reporting (Priority 40, Iteration 2) – Generate insights on bookings, revenue, and customer trends.
+    -Inventory management (Priority 40, Iteration 2) – Track and manage service-related inventory or materials.
 
 # Users
-    Book appointments, priority 10, YY days, iteration 1
-    Search, priority 20, YY days , iteration 1
-    Payment options, priority 10, YY days, iteration 1
-    Invoice generation, priority 20, YY days , iteration 1
-    Manage profiles, priority 20, YY days , iteration 1
-
-    Edit/delete appointments, priority 20, YY days, iteration 2
-    Service tracking, priority 30, YY days, iteration 2
-    Reviews and ratings, priority 40, YY days, iteration 2
-    Customer support, priority 30, YY days, iteration 2
-    Recommendation algorithm, priority 40, YY days, iteration 2
-
-    Eco-friendly options, priority 40, YY days, iteration 2
-    Loyalty program, priority 40, YY days, iteration 2
+    -Book appointments (Priority 10, Iteration 1) – Allow users to schedule services with providers.
+    -Search (Priority 20, Iteration 1) – Enable users to find providers based on location, ratings, and availability.
+    -Payment options (Priority 10, Iteration 1) – Provide multiple payment methods for secure transactions.
+    -Invoice generation (Priority 20, Iteration 1) – Generate and send invoices after service completion.
+    -Manage profiles (Priority 20, Iteration 1) – Allow users to edit personal details, preferences, and saved providers.
+    
+    -Edit/delete appointments (Priority 20, Iteration 2) – Enable users to modify or cancel bookings as needed.
+    -Service tracking (Priority 30, Iteration 2) – Provide real-time updates on service status and completion.
+    -Reviews and ratings (Priority 40, Iteration 2) – Let users leave feedback and rate service providers.
+    -Customer support (Priority 30, Iteration 2) – Offer assistance through chat, email, or phone support.
+    -Recommendation algorithm (Priority 40, Iteration 2) – Suggest providers based on user preferences and history.
+    -Eco-friendly options (Priority 40, Iteration 2) – Highlight sustainable service choices or providers.
+    -Loyalty program (Priority 40, Iteration 2) – Reward users with points or discounts for repeat bookings.
     
