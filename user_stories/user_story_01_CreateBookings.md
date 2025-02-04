@@ -1,16 +1,14 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: Create bookings
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 10 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Priority: 10 
+Essential component of the program. User must be able to book appointments with the service provider.
+This requires a database to connect to and update.
 
-## Estimation: e.g. 2 days
+## Estimation: 5 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Bob: 1 day (e.g. estimated before iteration-1)
 * Lisa: 2 days
@@ -18,11 +16,11 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Assumptions (if any):
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
+## Description:
+Allow users to create appointments efficiently.
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
 In a real project, your older versions could be viewed via commits.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
 
 ## Tasks, see chapter 4.
 
