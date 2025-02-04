@@ -9,7 +9,7 @@
   * Priority: 10
 
 ## Idea 3: Search 
-* Desc : Users can edit their profiles, add addresses, and set preferences
+* Desc : Users can search by address, location, pay etc.
     * Priority: 10
 
 ## Idea 4: Booking System
