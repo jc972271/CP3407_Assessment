@@ -1,7 +1,6 @@
 # Invoice Generation.
 
 ## Priority: 20
-While invoices are important to track payments other features take priority
 
 ## Estimation: 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
