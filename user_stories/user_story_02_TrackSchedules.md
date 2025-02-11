@@ -13,7 +13,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 1. Liam Whiting - 
 2. Hayden West - 
 3. Danny Zaw - 
-4. Salvin George - 
+4. Salvin George - 2 days
 
 ## Assumptions (if any):
 
