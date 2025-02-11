@@ -6,7 +6,7 @@
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 1. Liam Whiting - 
 2. Hayden West - 
-3. Danny Zaw - 
+3. Danny Zaw - 1 day
 4. Salvin George - 2 day
 
 ## Assumptions (if any):
@@ -19,6 +19,7 @@ Description-v1:Create an online receipt as proof of booking and payment.
 
 1. Task 1, Estimation XX days
 2. ...
+
 
 
 # UI Design:
