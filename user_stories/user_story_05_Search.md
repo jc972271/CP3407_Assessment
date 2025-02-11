@@ -7,7 +7,7 @@ While searching is an important feature it is not critical to the functionality 
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 1. Liam Whiting - 
 2. Hayden West - 
-3. Danny Zaw - 
+3. Danny Zaw - 1 day
 4. Salvin George - 1 day 
 
 ## Assumptions (if any):

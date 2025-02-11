@@ -12,7 +12,7 @@ This also applies to service providers.
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 1. Liam Whiting - 
 2. Hayden West - 
-3. Danny Zaw - 
+3. Danny Zaw - 2 days
 4. Salvin George - 2 days
 
 ## Assumptions (if any):
