@@ -23,9 +23,9 @@ Provide a calendar-based view for tracking and managing bookings.
 
 ## Tasks, see chapter 4.
 
-1. Fetch booking data, Estimation XX days
-2. Create UI, 
-3. Integrate UI with backend data,
+1. Fetch booking data, Estimation 0.5 days
+2. Create UI, Estimation 1 hour
+3. Integrate UI with backend data, 0.5 days
 
 
 # UI Design:
