@@ -29,8 +29,11 @@ In a real project, your older versions could be viewed via commits.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Task 1: Create SQL database for users, Estimation 1 day/s
+2. Task 2: Create SQL database for cleaners, Estimation 1 day/s
+3. Task 3: Create SQL database for bookings, Estimation 1 day/s
+4. Task 4: Link databases together, Estimation 1 day/s
+5. Task 5: Create UI for creating the bookings, Estimation 1 day/s
 
 
 # UI Design:
