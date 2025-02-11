@@ -11,9 +11,9 @@ This requires a database to connect to and update.
 ## Estimation: 5 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 1. Liam Whiting - 
-2. Hayden West - 
+2. Hayden West - 4 days
 3. Danny Zaw - 
-4. Salvin George - 
+4. Salvin George - 5 days
 
 ## Assumptions (if any):
 Assumption 1: Available slots will be updated in real time. 
