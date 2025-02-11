@@ -10,9 +10,10 @@ This requires a database to connect to and update.
 
 ## Estimation: 5 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+1. Liam Whiting - 
+2. Hayden West - 
+3. Danny Zaw - 
+4. Salvin George - 
 
 ## Assumptions (if any):
 Assumption 1: Available slots will be updated in real time. 
