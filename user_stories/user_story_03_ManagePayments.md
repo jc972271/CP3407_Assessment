@@ -22,9 +22,8 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
-
+1. Determine payment options (Debit, credit, Paypal, Afterpay, etc), Estimation 0.2 day/s
+2. Design mock up UI, Estimation 0.8 day/s
 
 # UI Design:
 * (New, not in the textbook) 
