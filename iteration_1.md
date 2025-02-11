@@ -16,6 +16,10 @@ User stories or tasks (see chapter 4):
 5. [Search](./user_stories/user_story_05_Search.md), priority 20, 1 days 
 6. [Invoice Generation](./user_stories/user_story_06_InvoiceGeneration.md), priority 20, 2 days
 
+Total Days: 11
+With Velocity: 11 * 0.7 = 16
+Per Person: 16/4 = 4
+
 In progress:
 * Task-2 (developer name or initials), date started
 * ...
