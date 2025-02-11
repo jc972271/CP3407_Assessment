@@ -25,3 +25,5 @@
     -Eco-friendly options (Priority 40, 1 day, Iteration 2) – Highlight sustainable service choices or providers.
     -Loyalty program (Priority 40, 1 day, Iteration 2) – Reward users with points or discounts for repeat bookings.
     
+## Total Days: 42 
+## With Velocity: 60
