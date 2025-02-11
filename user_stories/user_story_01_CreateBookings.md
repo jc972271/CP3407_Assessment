@@ -15,6 +15,10 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Jack: 3 days
 
 ## Assumptions (if any):
+Assumption 1: Available slots will be updated in real time. 
+Assumption 2: Canceled slots will be instantly available for others.
+Assumption 3: Users can book up to 4 weeks in advance.
+Assumption 4: Same day bookings will not be available. 
 
 ## Description:
 Allow users to create appointments efficiently.
