@@ -1,4 +1,4 @@
-# Manage Payments
+# User story title: Manage Payments
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
@@ -7,19 +7,18 @@ Any notes on priority go here.
 Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
-## Estimation: e.g. 2 days
+## Estimation: 1 day
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+1. Liam Whiting - 
+2. Hayden West - 
+3. Danny Zaw - 
+4. Salvin George - 
 
 ## Assumptions (if any):
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
+## Description: e.g. Process payments securely, including invoices and transaction history.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+* Description-v1: Process payments securely, including invoices and transaction history.
 
 ## Tasks, see chapter 4.
 
