@@ -12,7 +12,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 1. Liam Whiting - 
 2. Hayden West - 
 3. Danny Zaw - 
-4. Salvin George - 
+4. Salvin George - 1 day
 
 ## Assumptions (if any):
 
@@ -22,8 +22,10 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Implement secure payment processing, Estimation XX days
+2. Generate invoices and transaction history
+3. Implement error handling and validation
+4. Generate UI
 
 
 # UI Design:

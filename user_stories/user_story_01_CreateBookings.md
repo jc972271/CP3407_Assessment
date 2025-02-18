@@ -10,11 +10,16 @@ This requires a database to connect to and update.
 
 ## Estimation: 5 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+1. Liam Whiting - 
+2. Hayden West - 4 days
+3. Danny Zaw - 5 days
+4. Salvin George - 5 days
 
 ## Assumptions (if any):
+Assumption 1: Available slots will be updated in real time. 
+Assumption 2: Canceled slots will be instantly available for others.
+Assumption 3: Users can book up to 4 weeks in advance.
+Assumption 4: Same day bookings will not be available. 
 
 ## Description:
 Allow users to create appointments efficiently.
@@ -24,8 +29,11 @@ In a real project, your older versions could be viewed via commits.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Task 1: Create SQL database for users, Estimation 1 day/s
+2. Task 2: Create SQL database for cleaners, Estimation 1 day/s
+3. Task 3: Create SQL database for bookings, Estimation 1 day/s
+4. Task 4: Link databases together, Estimation 1 day/s
+5. Task 5: Create UI for creating the bookings, Estimation 1 day/s
 
 
 # UI Design:

@@ -10,9 +10,10 @@ This also applies to service providers.
 
 ## Estimation: 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+1. Liam Whiting - 
+2. Hayden West - 1 day
+3. Danny Zaw - 
+4. Salvin George - 2 days
 
 ## Assumptions (if any):
 
@@ -22,8 +23,9 @@ Provide a calendar-based view for tracking and managing bookings.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Fetch booking data, Estimation 0.5 days
+2. Create UI, Estimation 1 hour
+3. Integrate UI with backend data, 0.5 days
 
 
 # UI Design:

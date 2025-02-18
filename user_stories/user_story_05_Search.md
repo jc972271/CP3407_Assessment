@@ -5,9 +5,10 @@ While searching is an important feature it is not critical to the functionality 
 
 ## Estimation: 1 day
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+1. Liam Whiting - 
+2. Hayden West - 0.5 days
+3. Danny Zaw - 1 day
+4. Salvin George - 1 day 
 
 ## Assumptions (if any):
 
