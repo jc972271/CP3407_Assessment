@@ -17,8 +17,11 @@ Description-v1:Create an online receipt as proof of booking and payment.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Implement backend invoice generation logic, Estimation 1 days
+2. Generate invoices in PDF format, Estimation 0.5 days
+3. Store and retrieve invoices, Estimation 0.5 day
+4. Create UI, Estimation 0.5 days
+5. Email invoice to users, Estimation 0.5 days
 
 
 
