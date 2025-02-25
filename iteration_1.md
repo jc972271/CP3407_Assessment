@@ -22,7 +22,8 @@ Per Person: 16/4 = 4
 
 In progress:
 * Task-2 (developer name or initials), date started
-* ...
+* Manage profiles, Task 1 (Hayden West), 25/02/2025
+* Manage profiles, Task 2 (Hayden West), 25/02/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
