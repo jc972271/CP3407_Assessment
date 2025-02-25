@@ -22,9 +22,9 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Tasks, see chapter 4.
 
-1. Implement business user profile signup and secure log in system, estimation XX days
-2. Link SQL database for cleaner / providers, estimation XX days
-3. Create SQL database for storing availability times, estimation XX days
+1. Create login/sign-up page UI, estimation 1 hour
+2. Create database for users and connect to login/sign-up page, estimation 1 day
+3. Add data validation and error checking, estimation 2 hours
 
 
 
