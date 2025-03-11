@@ -20,10 +20,16 @@ Total Days: 11
 With Velocity: 11 * 0.7 = 16
 Per Person: 16/4 = 4
 
+To Do:
+User Story: Manage Profiles
+* Task-1 
+
 In progress:
 * Task-2 (developer name or initials), date started
 * Manage profiles, Task 1 (Hayden West), 25/02/2025
 * Manage profiles, Task 2 (Hayden West), 25/02/2025
+
+* Prototype UI and Wireframe (Danny Zaw), date started 28/02/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
