@@ -17,7 +17,7 @@ User stories or tasks (see chapter 4):
 6. [Invoice Generation](./user_stories/user_story_06_InvoiceGeneration.md), priority 20, 2 days
 
 Total Days: 11
-With Velocity: 11 * 0.7 = 16
+With Velocity: 11 / 0.7 = 16
 Per Person: 16/4 = 4
 
 In progress:
@@ -44,8 +44,8 @@ Completed:
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 4 weeks left, 12 days of estimated amount of work 
+* 2 weeks left, 9 days
+* 1 weeks left, 5 days
+* 0 weeks left, 2 days
+* Actual Velocity: 0.58 
