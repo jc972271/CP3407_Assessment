@@ -15,6 +15,10 @@ User stories or tasks (see chapter 4):
 
 4. Customer support (Priority 30, 2 days)
 
+Total Days: YY
+With Velocity: YY / 0.58 = XX
+Per Person: XX / 4 = 4
+
 In progress:
 * Task-2 (developer name or initials), date started
 * ...
@@ -25,7 +29,7 @@ Completed:
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
+* 4 weeks left, 9 days of estimated amount of work 
 * 2 weeks left, xx days
 * 1 weeks left, xx days
 * 0 weeks left, xx days
