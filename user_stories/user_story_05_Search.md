@@ -18,10 +18,10 @@ Description-v1: e.g. Allow users to search by name for a cleaning company
 
 ## Tasks, see chapter 4.
 
-1. Create UI, Estimation XX days
-2. Implement search functionality, Estimation XX days
-3. Integrate frontend with backend search, Estimation XX days
-4. Implement error handling and validation, Estimation XX days
+1. Create UI, Estimation 1 hour
+2. Implement search functionality, Estimation 2 hours
+3. Implement filter functionality, Estimation 3 hours
+4. Implement error handling and validation, Estimation 1 hour
 
 
 # UI Design:

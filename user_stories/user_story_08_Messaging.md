@@ -22,9 +22,10 @@ Description-v2: Allow the client and cleaners to message each other
 
 ## Tasks, see chapter 4.
 
-1. Create database for messaging, Estimation XX days
-2. Develop messaging API 
-3. Create UI
+1. Create database for messaging, Estimation 0.5 days
+2. Create UI, Estimation 0.5 days
+3. Develop messaging API, Estimation 1 day
+
 
 
 # UI Design:

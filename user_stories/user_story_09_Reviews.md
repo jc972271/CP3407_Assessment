@@ -17,8 +17,9 @@ Description-v1: Allow Users to review cleaning services
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Create Review Database, Estimation 0.5 days
+2. Develop UI allowing user to see reviews, Estimation 1 hour
+3. Develop UI allowing user to make reviews, Estimation 1 hour
 
 
 # UI Design:

@@ -26,8 +26,6 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 2. Create database for users and connect to login/sign-up page, estimation 1 day
 3. Add data validation and error checking, estimation 2 hours
 
-
-
 # UI Design:
 * (New, not in the textbook) 
 * Many user stories are connected to a User interface.
