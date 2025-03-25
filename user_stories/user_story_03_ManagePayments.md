@@ -23,9 +23,8 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Tasks, see chapter 4.
 
 1. Implement secure payment processing, Estimation XX days
-2. Generate invoices and transaction history
-3. Implement error handling and validation
-4. Generate UI
+2. Implement error handling and validation, Estimation XX days
+3. Generate UI, Estimation XX days
 
 
 # UI Design:

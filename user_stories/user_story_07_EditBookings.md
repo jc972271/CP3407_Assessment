@@ -22,9 +22,10 @@ Description-v1: Allow the user to edit or delete their booking details
 
 ## Tasks, see chapter 4.
 
-1. Create UI, Estimation XX days
-2. Implement access control and dataflows
-3. Include validation
+1. Create UI, Estimation 1 hour
+2. Implement access control, Estimation 1 hour
+3. Update booking data in database, Estimation 1 hour
+4. Include validation, Estimation 1 hour
 
 
 # UI Design:
