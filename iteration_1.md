@@ -12,7 +12,7 @@ User stories or tasks (see chapter 4):
 1. [Create Bookings](./user_stories/user_story_01_CreateBookings.md), priority 10, 5 days 
 2. [Track Schedules](./user_stories/user_story_02_TrackSchedules.md), priority 20, 2 days
 3. [Manage Payments](./user_stories/user_story_03_ManagePayments.md), priority 10, 1 days
-4. [Manage Profiles](./user_stories/user_story_04_CreateProfiles), priority 20, 1 days 
+4. [Create Profiles](./user_stories/user_story_04_CreateProfiles), priority 20, 1 days 
 5. [Search](./user_stories/user_story_05_Search.md), priority 20, 1 days 
 6. [Invoice Generation](./user_stories/user_story_06_InvoiceGeneration.md), priority 20, 2 days
 
