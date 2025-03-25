@@ -7,20 +7,23 @@
 ## Priority: 30 
 
 ## Estimation: 2 days
-
-* Developer: YY day
+1. Liam Whiting - 
+2. Hayden West - 2 days
+3. Danny Zaw - 
+4. Salvin George - 
 
 ## Assumptions (if any):
 
 ## Description:  Allow the client and clears to message each other 
 
 Description-v1: Allow the client to communicate with the cleaners 
-Description-v2: Allow the client and clears to message each other 
+Description-v2: Allow the client and cleaners to message each other 
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Create database for messaging, Estimation XX days
+2. Develop messaging API 
+3. Create UI
 
 
 # UI Design:
