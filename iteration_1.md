@@ -17,7 +17,7 @@ User stories or tasks (see chapter 4):
 6. [Invoice Generation](./user_stories/user_story_06_InvoiceGeneration.md), priority 20, 2 days
 
 Total Days: 11
-With Velocity: 11 * 0.7 = 16
+With Velocity: 11 / 0.7 = 16
 Per Person: 16/4 = 4
 
 In progress:
@@ -27,6 +27,7 @@ In progress:
 * ~~Search, Task 1 (Hayden West), 05/03/2025~~
 * ~~Search, Task 2 (Hayden West), 05/03/2025~~
 * ~~Search, Task 3 (Hayden West), 06/03/2025~~
+* CreateBookings, Task 4 (Salvin George) 14/03/2025
 
 * UI Design Prototype and Wireframe (Danny Zaw), date started 28/02/2025
 
@@ -37,11 +38,14 @@ Completed:
 * Search, Task 1 (Hayden West), 06/03/2025
 * Search, Task 2 (Hayden West), 06/03/2025
 * Search, Task 3 (Hayden West), 07/03/2025
+* CreateBookings, Task 1 (Salvin George) 15/03/2025
+* CreateBookings, Task 2 (Salvin George) 15/03/2025
+* CreateBookings, Task 3 (Salvin George) 16/03/2025
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 4 weeks left, 12 days of estimated amount of work 
+* 2 weeks left, 9 days
+* 1 weeks left, 5 days
+* 0 weeks left, 2 days
+* Actual Velocity: 0.58 

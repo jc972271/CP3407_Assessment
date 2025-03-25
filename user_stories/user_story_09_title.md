@@ -1,6 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: e.g. Show current deals
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
