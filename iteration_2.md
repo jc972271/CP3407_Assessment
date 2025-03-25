@@ -11,9 +11,9 @@ Checklist:
 User stories or tasks (see chapter 4):
 1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days 
 2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
+3. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
 
-3. Customer support (Priority 30, 2 days)
-4. Reviews and ratings (Priority 40, 1 day)
+4. Customer support (Priority 30, 2 days)
 
 In progress:
 * Task-2 (developer name or initials), date started
