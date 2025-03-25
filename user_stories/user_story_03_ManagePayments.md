@@ -9,7 +9,7 @@ Again, keep all changes here for marking.
 
 ## Estimation: 1 day
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-1. Liam Whiting - 
+1. Liam Whiting - 1 day
 2. Hayden West - 
 3. Danny Zaw - 
 4. Salvin George - 1 day

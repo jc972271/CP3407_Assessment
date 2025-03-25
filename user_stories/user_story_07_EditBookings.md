@@ -9,7 +9,7 @@ as this [user_stories folder](./)
 
 ## Estimation: 1 day
 
-1. Liam Whiting - 
+1. Liam Whiting -  1 day
 2. Hayden West - 1.5 days
 3. Danny Zaw - 
 4. Salvin George - 
