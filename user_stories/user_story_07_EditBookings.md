@@ -1,11 +1,10 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Edit/Delete Bookings
 
 * Edit/Delete Bookings
 
 ## Priority: 20
+    While being able to edit or remove bookings is an important feature it is not 
+    critical for the website to function therefore makeing it a lower priority
 
 ## Estimation: 1 day
 

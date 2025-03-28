@@ -1,6 +1,8 @@
 # Invoice Generation.
 
 ## Priority: 20
+    While invoices are useful full users to have they are not crtical for the website and are therfore a
+    lower priority
 
 ## Estimation: 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
