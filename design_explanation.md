@@ -6,7 +6,12 @@
 ## Database Design 
 ! [User Registration UI](Images/data-flow-diagram.png)
 We decided to use three databases: one for users, one for service providers, and one
-for bookings.
+for bookings. For the user database, the email will serve as the primary key as it is
+unique and makes it easy to track each user. In the service provider database, the
+service provider name will be the primary key as that is what differentiates each
+cleaning company. In the booking database the primary key will be a unique booking ID
+as one user could have multiple bookings. The user email however will be the foreign
+key that connects back to the user database.
 
 ## Interface Design 
 ! [User Registration UI prototype](../Images/login_ui_1.png)
