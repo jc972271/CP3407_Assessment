@@ -15,7 +15,7 @@ key that connects back to the user database.
 
 ## Interface Design 
 
-##  Iteration 1
+###  Iteration 1
 
 ! [User Registration UI prototype](../Images/login_ui_1.png)
 The login page was designed with a blue, grey and white colour scheme, accompanied by
@@ -33,7 +33,7 @@ search down even more easily, giving them more control and customisation.
 
 ! []
 
-## Iteration 2
+### Iteration 2
 
 ![Manage Booking prototype](../Images/managebooking_ui.png)
 The Manage Booking page follows our blue, white, and grey color palette. A central tab bar at the top provides access 
