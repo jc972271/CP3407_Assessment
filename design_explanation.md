@@ -11,7 +11,7 @@ unique and makes it easy to track each user. In the service provider database, t
 service provider name will be the primary key as that is what differentiates each
 cleaning company. In the booking database the primary key will be a unique booking ID
 as one user could have multiple bookings. The user email however will be the foreign
-key that connects back to the user database.
+key that connects back to the user database. 
 
 ## Interface Design 
 
