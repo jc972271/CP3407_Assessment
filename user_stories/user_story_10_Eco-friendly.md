@@ -5,28 +5,27 @@ as this [user_stories folder](./)
 
 ## Priority: 40 
 
-Eco-Friendly options are an
+Eco-Friendly options are an additional feature that are not needed for the program to function.
 
 ## Estimation: 1 day 
 
-1. Liam Whiting -  1 hour
-2. Hayden West - 10 minutes 
+1. Liam Whiting -  6 hours
+2. Hayden West - 1 day 
 3. Danny Zaw - 1 day
 4. Salvin George - 1 day
 
 
 ## Assumptions (if any):
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
+## Description: Allow the user to filter companies by eco-friendly options
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: Allow the user to filter companies by eco-friendly options
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Add filter UI, Estimation 1 hour
+2. Add functionality to filter, Estimation 2 hours
+3. Allow cleaners to select eco-friendly options, Estimation 2 hour
 
 
 # UI Design:
