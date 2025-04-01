@@ -27,6 +27,9 @@ In progress:
 * ~~Search, Task 1 (Hayden West), 05/03/2025~~
 * ~~Search, Task 2 (Hayden West), 05/03/2025~~
 * ~~Search, Task 3 (Hayden West), 06/03/2025~~
+* ~~CreateBookings, Task 1 (Salvin George) 15/03/2025~~
+* ~~CreateBookings, Task 2 (Salvin George) 15/03/2025~~
+* ~~CreateBookings, Task 3 (Salvin George) 16/03/2025~~
 * CreateBookings, Task 4 (Salvin George) 14/03/2025
 
 * UI Design Prototype and Wireframe (Danny Zaw), date started 28/02/2025
