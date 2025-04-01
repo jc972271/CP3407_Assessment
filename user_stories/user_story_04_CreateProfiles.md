@@ -37,3 +37,11 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 ! [User Registration UI](../Images/login_ui_2.png)
+
+# Testing
+
+## Developer Testing:
+While testing we entered multiple fake profiles and then checked the database to ensure the profiles were saved.
+
+## User Testing:
+Upon accessing the create profile screen our user was easily able to enter their details and create their profile.

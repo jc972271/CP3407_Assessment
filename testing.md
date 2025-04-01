@@ -2,11 +2,22 @@
 
 ## User story 1 - Create Bookings
 
+### Developer Testing:
+
+### User Testing:
+
 ## User Story 2 - Track Schedules
+
+### Developer Testing:
+
+### User Testing:
 
 ## User Story 3 - Manage Payments
 
-## User Story 4 - Create Profile
+### Developer Testing:
+
+### User Testing:
+
 
 
 
