@@ -8,7 +8,7 @@ Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
 ## Estimation: 1 day
-Any notes on estimation go here. Keep your planning poker game numbers. For example
+
 1. Liam Whiting - 1 day
 2. Hayden West - 1 day
 3. Danny Zaw - 1.5 days

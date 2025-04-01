@@ -35,3 +35,12 @@ Description-v1: e.g. Allow users to search by name for a cleaning company
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 ! [search page UI](../Images/search_ui_2.png)
+
+# Testing
+
+## Developer Testing:
+To test the search function multiple cleaning companies were added with different details then we 
+tested each filter and the search bar ensuring only the expected cleaning companies showed up.
+
+## User Testing:
+To preform the user testing  specific 

@@ -1,20 +1,19 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: Eco-friendly options
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+## Priority: 40 
 
-## Priority: 10 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+Eco-Friendly options are an
 
-## Estimation: e.g. 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+## Estimation: 1 day 
+
+1. Liam Whiting -  1 hour
+2. Hayden West - 10 minutes 
+3. Danny Zaw - 1 day
+4. Salvin George - 1 day
+
 
 ## Assumptions (if any):
 
