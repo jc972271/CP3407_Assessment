@@ -1,15 +1,14 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Edit/Delete Bookings
 
 * Edit/Delete Bookings
 
 ## Priority: 20
+    While being able to edit or remove bookings is an important feature it is not 
+    critical for the website to function therefore makeing it a lower priority
 
 ## Estimation: 1 day
 
-1. Liam Whiting - 
+1. Liam Whiting -  1 day
 2. Hayden West - 1.5 days
 3. Danny Zaw - 
 4. Salvin George - 
@@ -22,9 +21,10 @@ Description-v1: Allow the user to edit or delete their booking details
 
 ## Tasks, see chapter 4.
 
-1. Create UI, Estimation XX days
-2. Implement access control and dataflows
-3. Include validation
+1. Create UI, Estimation 1 hour
+2. Implement access control, Estimation 1 hour
+3. Update booking data in database, Estimation 1 hour
+4. Include validation, Estimation 1 hour
 
 
 # UI Design:

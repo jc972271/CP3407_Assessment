@@ -5,7 +5,7 @@ While searching is an important feature it is not critical to the functionality 
 
 ## Estimation: 1 day
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-1. Liam Whiting - 
+1. Liam Whiting - 1 day
 2. Hayden West - 0.5 days
 3. Danny Zaw - 1 day
 4. Salvin George - 1 day 
@@ -18,10 +18,10 @@ Description-v1: e.g. Allow users to search by name for a cleaning company
 
 ## Tasks, see chapter 4.
 
-1. Create UI, Estimation XX days
-2. Implement search functionality, Estimation XX days
-3. Integrate frontend with backend search, Estimation XX days
-4. Implement error handling and validation, Estimation XX days
+1. Create UI, Estimation 1 hour
+2. Implement search functionality, Estimation 2 hours
+3. Implement filter functionality, Estimation 3 hours
+4. Implement error handling and validation, Estimation 1 hour
 
 
 # UI Design:

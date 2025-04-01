@@ -12,7 +12,7 @@ User stories or tasks (see chapter 4):
 1. [Create Bookings](./user_stories/user_story_01_CreateBookings.md), priority 10, 5 days 
 2. [Track Schedules](./user_stories/user_story_02_TrackSchedules.md), priority 20, 2 days
 3. [Manage Payments](./user_stories/user_story_03_ManagePayments.md), priority 10, 1 days
-4. [Manage Profiles](./user_stories/user_story_04_CreateProfiles), priority 20, 1 days 
+4. [Create Profiles](./user_stories/user_story_04_CreateProfiles), priority 20, 1 days 
 5. [Search](./user_stories/user_story_05_Search.md), priority 20, 1 days 
 6. [Invoice Generation](./user_stories/user_story_06_InvoiceGeneration.md), priority 20, 2 days
 
@@ -27,6 +27,9 @@ In progress:
 * ~~Search, Task 1 (Hayden West), 05/03/2025~~
 * ~~Search, Task 2 (Hayden West), 05/03/2025~~
 * ~~Search, Task 3 (Hayden West), 06/03/2025~~
+* ~~CreateBookings, Task 1 (Salvin George) 15/03/2025~~
+* ~~CreateBookings, Task 2 (Salvin George) 15/03/2025~~
+* ~~CreateBookings, Task 3 (Salvin George) 16/03/2025~~
 * CreateBookings, Task 4 (Salvin George) 14/03/2025
 
 * UI Design Prototype and Wireframe (Danny Zaw), date started 28/02/2025
@@ -38,6 +41,7 @@ Completed:
 * Search, Task 1 (Hayden West), 06/03/2025
 * Search, Task 2 (Hayden West), 06/03/2025
 * Search, Task 3 (Hayden West), 07/03/2025
+* Search, Task 4 (Hayden West), 07/03/2025
 * CreateBookings, Task 1 (Salvin George) 15/03/2025
 * CreateBookings, Task 2 (Salvin George) 15/03/2025
 * CreateBookings, Task 3 (Salvin George) 16/03/2025

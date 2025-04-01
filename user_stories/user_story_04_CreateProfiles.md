@@ -9,7 +9,7 @@ Again, keep all changes here for marking.
 
 ## Estimation: 1 day
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-1. Liam Whiting - 
+1. Liam Whiting - 1 day
 2. Hayden West - 1 day
 3. Danny Zaw - 1.5 days
 4. Salvin George - 1 day
@@ -25,8 +25,6 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 1. Create login/sign-up page UI, estimation 1 hour
 2. Create database for users and connect to login/sign-up page, estimation 1 day
 3. Add data validation and error checking, estimation 2 hours
-
-
 
 # UI Design:
 * (New, not in the textbook) 

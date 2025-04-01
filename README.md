@@ -35,7 +35,7 @@ Checklist/TODOs:
 Total: YY days
 
 
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
+## Iteration 1 [duration 3-4 weeks], 18/02/2025 to 18/03/2025 
 
 * Goal is to have 2 iterations during a trimester of teaching.
 * Update the following during each week prac session
@@ -51,7 +51,7 @@ Total: YY days
 Total: 12 days
 
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
+### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 
 Goal is to have 2 iterations during a trimester of teaching.
 1. [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 
 2. ...

@@ -11,13 +11,16 @@ Checklist:
 User stories or tasks (see chapter 4):
 1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days 
 2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
+3. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
 
-3. Customer support (Priority 30, 2 days)
-4. Reviews and ratings (Priority 40, 1 day)
+4. Customer support (Priority 30, 2 days)
+
+Total Days: YY
+With Velocity: YY / 0.58 = XX
+Per Person: XX / 4 = 4
 
 In progress:
-* Task-2 (developer name or initials), date started
-* ...
+* Edit Bookings, Task 1 (Danny Zaw) 29/03/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
@@ -25,7 +28,7 @@ Completed:
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
+* 4 weeks left, 9 days of estimated amount of work 
 * 2 weeks left, xx days
 * 1 weeks left, xx days
 * 0 weeks left, xx days
