@@ -20,8 +20,7 @@ With Velocity: YY / 0.58 = XX
 Per Person: XX / 4 = 4
 
 In progress:
-* Task-2 (developer name or initials), date started
-* ...
+* Edit Bookings, Task 1 (Danny Zaw) 29/03/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
