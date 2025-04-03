@@ -25,6 +25,10 @@ In progress:
 * Edit Bookings, Task 3 (Danny Zaw) 03/04/2025
 * Edit Bookings, Task 4 (Danny Zaw) 03/04/2025
 
+* Reviews, Task 1 (Danny Zaw) 04/04/2025
+* Reviews, Task 2 (Danny Zaw) 04/04/2025
+* Reviews, Task 3 (Danny Zaw) 04/04/2025
+
 Completed:
 * Task-3 (developer name or initials), date completed
 * ...
