@@ -20,8 +20,21 @@ Per Person: XX / 4 = 4
 
 In progress:
 
-* Edit Bookings, Task 1 (Danny Zaw) 02/03/2025
-* Edit Bookings, Task 2 (Danny Zaw) 02/03/2025
+* ~~Edit Bookings, Task 1 (Danny Zaw) 02/04/2025~~
+* ~~Edit Bookings, Task 2 (Danny Zaw) 02/04/2025~~
+* ~~Edit Bookings, Task 3 (Danny Zaw) 03/04/2025~~
+* ~~Edit Bookings, Task 4 (Danny Zaw) 03/04/2025~~
+
+* ~~Reviews, Task 1 (Danny Zaw) 04/04/2025~~
+* ~~Reviews, Task 2 (Danny Zaw) 04/04/2025~~
+* ~~Reviews, Task 3 (Danny Zaw) 04/04/2025~~
+
+* ~~Eco-friendly, Task 1 (Danny Zaw) 05/04/2025~~
+
+Completed:
+
+* Edit Bookings, Task 1 (Danny Zaw) 03/03/2025
+* Edit Bookings, Task 2 (Danny Zaw) 03/03/2025
 * Edit Bookings, Task 3 (Danny Zaw) 03/04/2025
 * Edit Bookings, Task 4 (Danny Zaw) 03/04/2025
 
@@ -29,9 +42,8 @@ In progress:
 * Reviews, Task 2 (Danny Zaw) 04/04/2025
 * Reviews, Task 3 (Danny Zaw) 04/04/2025
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+* Eco-friendly, Task 1 (Danny Zaw) 05/04/2025
+
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week

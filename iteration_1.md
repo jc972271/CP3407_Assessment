@@ -32,9 +32,8 @@ In progress:
 * ~~CreateBookings, Task 1 (Salvin George) 15/03/2025~~
 * ~~CreateBookings, Task 2 (Salvin George) 15/03/2025~~
 * ~~CreateBookings, Task 3 (Salvin George) 16/03/2025~~
-* CreateBookings, Task 4 (Salvin George) 14/03/2025
-* CreateBookings, Task 4 (Danny Zaw) 28/03/2025
-* CreateBookings, Task 5 (Salvin George) xx/xx/xxxx
+* ~~CreateBookings, Task 4 (Salvin George & Danny Zaw) 28/03/2025~~
+* ~~CreateBookings, Task 5 (Salvin George & Danny Zaw) 28/03/2025~~
 
 * UI Design Prototype and Wireframe (Danny Zaw), date started 28/02/2025
 
@@ -42,13 +41,17 @@ Completed:
 
 * Create profiles, Task 1 (Hayden West), 02/03/2025
 * Create profiles, Task 2 (Hayden West), 02/03/2025
+
 * Search, Task 1 (Hayden West), 06/03/2025
 * Search, Task 2 (Hayden West), 06/03/2025
 * Search, Task 3 (Hayden West), 07/03/2025
 * Search, Task 4 (Hayden West), 07/03/2025
+
 * CreateBookings, Task 1 (Salvin George) 15/03/2025
 * CreateBookings, Task 2 (Salvin George) 15/03/2025
 * CreateBookings, Task 3 (Salvin George) 16/03/2025
+* CreateBookings, Task 4 (Salvin George & Danny Zaw) 05/04/2025
+* CreateBookings, Task 5 (Salvin George & Danny Zaw) 05/04/2025
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
