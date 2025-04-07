@@ -32,3 +32,11 @@ Description-v1: Allow Users to review cleaning services
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 
+## Developer testing
+Fake reviews were created using sample user account in our database. Users can review a
+company of their choice on the search page. 
+
+The user can write a message and give a star review for the company.
+
+The average star rating of a company will be displayed when trying to book that company.
+
