@@ -46,3 +46,9 @@ In a real project, your older versions could be viewed via commits.
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 
+## Developer Testing
+We tested each step of the booking process, ensuring data flows correctly and all the
+information is displayed on the final page correctly.
+
+
+
