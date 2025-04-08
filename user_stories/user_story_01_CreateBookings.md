@@ -9,7 +9,7 @@ Essential component of the program. User must be able to book appointments with 
 This requires a database to connect to and update.
 
 ## Estimation: 5 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
+
 1. Liam Whiting - 4 days
 2. Hayden West - 4 days
 3. Danny Zaw - 5 days
@@ -45,4 +45,10 @@ In a real project, your older versions could be viewed via commits.
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
+
+## Developer Testing
+We tested each step of the booking process, ensuring data flows correctly and all the
+information is displayed on the final page correctly.
+
+
 

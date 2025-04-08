@@ -8,7 +8,7 @@ Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
 ## Estimation: 1 day
-Any notes on estimation go here. Keep your planning poker game numbers. For example
+
 1. Liam Whiting - 1 day
 2. Hayden West - 1 day
 3. Danny Zaw - 1.5 days
@@ -36,4 +36,16 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
-! [User Registration UI](../Images/login_ui_2.png)
+
+# Testing
+
+## Developer Testing:
+While testing we entered multiple fake profiles and then checked the database to ensure the profiles were saved.
+We entered username, passwords, emails and logo to ensure all types of data is recorded correctly. 
+[User Registration UI](../Images/login_ui_2.png)
+
+If a user already has an account they can click on the log-in button to sign in, and they can go back
+if they don't have an account by clicking the sign-up link.
+
+## User Testing:
+Upon accessing the create profile screen our user was easily able to enter their details and create their profile.

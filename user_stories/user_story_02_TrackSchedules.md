@@ -9,7 +9,7 @@ Not necessarily essential, but it is very important for users to be able to trac
 This also applies to service providers.
 
 ## Estimation: 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
+
 1. Liam Whiting - 2 days
 2. Hayden West - 1 day
 3. Danny Zaw - 

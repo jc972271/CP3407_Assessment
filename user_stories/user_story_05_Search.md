@@ -34,4 +34,17 @@ Description-v1: e.g. Allow users to search by name for a cleaning company
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
-! [search page UI](../Images/search_ui_2.png)
+
+# Testing
+
+## Developer Testing:
+To test the search function multiple cleaning companies were added with different details then we 
+tested each filter and the search bar ensuring only the expected cleaning companies showed up.
+The search bar can be used to search for a specific company or a specific keyword.
+[search page UI](../Images/search_ui_2.png)
+
+The filters can be used to help narrow down the search, and the testing showed that the
+filters work correctly.
+
+## User Testing:
+
