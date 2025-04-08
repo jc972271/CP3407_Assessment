@@ -1,7 +1,26 @@
 # Design
 
 ## Architectural Design 
+! [UML Diagram](Images/UML-data-diagram.png)
+We decided to design the system using three main classes based on the core entities 
+of the platform: User, Service Provider, and Booking. These correspond to three separate 
+database tables that handle different aspects of the application logic. For the User class, 
+the email field serves as the primary key, as it is unique to each user and allows easy identification 
+and management. This class includes attributes such as name, isCleaner, and profileImage, allowing the 
+system to distinguish between regular users and cleaners, and store relevant user data. In the ServiceProvider class, 
+the name field acts as the primary key, assuming that service provider names are unique identifiers for each business.
+Other fields such as location, serviceType, price, and logo support the display and filtering of services offered by 
+different cleaning companies. Service providers can list services using the listServices() method. 
 
+The Booking class represents the connection between users and service providers. A unique booking ID (implied from the diagram)
+would serve as the primary key, since a single user can have multiple bookings. The foreign keys in this class are:
+- The email from the User class, linking the booking back to the user who created it.
+- The service provider name from the ServiceProvider class, indicating which provider is responsible for fulfilling the booking.
+
+Each booking also stores date, status, and paymentStatus to track its progress. The confirmBooking() method allows the booking to
+be updated once payment is made or a provider confirms the service. This class-based structure reflects clean separation of 
+concerns while maintaining strong relationships between users, providers, and their bookings. It supports scalability, 
+allowing new features like cleaner availability or customer reviews to be added in the future. 
 
 ## Database Design 
 ! [User Registration UI](Images/data-flow-diagram.png)
