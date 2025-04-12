@@ -70,3 +70,11 @@ filling out the inputs or using stripe to complete the payment.
 A summary of the booking is then displayed so that the user can check to make sure
 all the details are correct.
 [Select service type](../Images/01_Create_Bookings/07_booking_summary.png)
+After making the booking, a confirmation pop-up is displayed so that the user knows that
+the booking has been made successfully.
+[Select service type](../Images/01_Create_Bookings/08_confirmation_popup.png)
+The booking is then added to the bookings database so that the user can later track and edit their bookings.
+You can see in the image below that all the details of the testing booking has been successfully
+tracked.
+[Select service type](../Images/01_Create_Bookings/09_database_write.png)
+[Select service type](../Images/01_Create_Bookings/11_booking_datatype.png)
