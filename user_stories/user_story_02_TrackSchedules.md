@@ -40,7 +40,7 @@ Provide a calendar-based view for tracking and managing bookings.
 
 ## Developer Testing
 The testing account was used to view the bookings schedule to ensure it functions correctly.
-When the user goes home, they can view their bookings and a summary of relevant details
+When the user goes to the manage bookings page, they can view their bookings and a summary of relevant details
 for easy viewing.
 [Select service type](../Images/02_Track_Schedules/01_manage_booking_view.png)
 This is based off the same test data for the create bookings user story.
