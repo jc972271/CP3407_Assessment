@@ -1,7 +1,7 @@
 # Design
 
 ## Architectural Design 
-! [UML Diagram](Images/UML-data-diagram.png)
+! [UML Diagram](../Images/UML-data-diagram.png)
 We decided to design the system using three main classes based on the core entities 
 of the platform: User, Service Provider, and Booking. These correspond to three separate 
 database tables that handle different aspects of the application logic. For the User class, 
@@ -23,7 +23,7 @@ concerns while maintaining strong relationships between users, providers, and th
 allowing new features like cleaner availability or customer reviews to be added in the future. 
 
 ## Database Design 
-! [User Registration UI](Images/data-flow-diagram.png)
+! [User Registration UI](../Images/data-flow-diagram.png)
 We decided to use three databases: one for users, one for service providers, and one
 for bookings. For the user database, the email will serve as the primary key as it is
 unique and makes it easy to track each user. In the service provider database, the
