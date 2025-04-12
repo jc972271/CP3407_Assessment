@@ -29,14 +29,12 @@ Again, keep all changes here for marking.
 # UI Design:
 * (New, not in the textbook) 
 * Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
- ! [User Registration UI prototype](../Images/login_ui_1.png)
+* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)  
+ [User Registration UI prototype](../Images/04_Create_Profiles/00_login_ui_prototype.png)  
+[View design explanation](design_explanation.md)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
-! [User Registration UI](../Images/login_ui_2.png)
+The login/sign-up page was completed and then developer testing was performed.
 
 # Testing
 
