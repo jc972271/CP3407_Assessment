@@ -69,5 +69,5 @@ Total: YY days
 2. [Iteration-2](./iteration_2.md)
 
 # Design Choices
-[Design Explanation](design_explanation.md)
+[Design Explanation](user_stories/design_explanation.md)
 

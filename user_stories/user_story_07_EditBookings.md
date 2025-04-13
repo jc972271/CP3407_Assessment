@@ -32,6 +32,9 @@ Description-v1: Allow the user to edit or delete their booking details
 * Many user stories are connected to a User interface.
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
 
+![](Images/managebooking_ui.png)
+
+
 # Completed:
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
