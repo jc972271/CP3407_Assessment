@@ -46,4 +46,5 @@ filters work correctly.
 ## User Testing:
 The user was able to easily search for different cleaning companies using the search bar
 and filters.
+[Search Bar](../Images/05_Search/01_search_provider.png) 
 

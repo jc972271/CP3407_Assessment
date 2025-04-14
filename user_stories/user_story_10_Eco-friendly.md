@@ -34,6 +34,7 @@ Description-v1: Allow the user to filter companies by eco-friendly options
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
+[Eco friendly tag](../Images/10_Eco_Friendly/01_eco_friendly_icon.png) 
 
 ## Developer Testing
 Eco friendly column was added in the service provider database. When browsing cleaning services
