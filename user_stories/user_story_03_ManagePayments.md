@@ -21,11 +21,14 @@ Description-v1: Process payments securely, including invoices and transaction hi
 2. Implement error handling and validation, Estimation 1 hour
 3. Generate UI, Estimation 1 hour
 
+# UI Design:
+![Track schedules](../Images/01_Prototypes/new_booking/05_payment_prototype.png)
+
 # Completed:
-[Browse search result bookings](../Images/02_Implemented/03_Manage_Payments/01_payment.png)
+![Payment](../Images/02_Implemented/03_Manage_Payments/01_payment.png)
 
 ## Developer Testing
 The manage payments feature was tested by using stripe. The stripe extension on bubble
 handles all of the transaction process.  
-[Browse search result bookings](../Images/02_Implemented/03_Manage_Payments/01_payment.png)
+![Payment](../Images/02_Implemented/03_Manage_Payments/01_payment.png)
 
