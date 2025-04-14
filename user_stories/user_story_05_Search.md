@@ -37,7 +37,7 @@ The search page was completed and then developer testing was performed.
 ## Developer Testing:
 To test the search function multiple cleaning companies were added with different details then we 
 tested each filter and the search bar ensuring only the expected cleaning companies showed up.
-The search bar can be used to search for a specific company or a specific keyword.  
+The search bar can be used to search for a specific company or a specific keyword.   
 ![Search page](../Images/05_Search/01_search_provider.png)  
 
 The filters can be used to help narrow down the search, and the testing showed that the

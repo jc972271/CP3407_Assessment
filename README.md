@@ -27,7 +27,7 @@ Total: 42 days
 Total: 12 days
 
 
-### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 14/04/2025
+## Iteration 2 [duration 3-4 weeks], 18/03/2025 to 14/04/2025
 
 1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days
 2. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day

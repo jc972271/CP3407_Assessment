@@ -1,8 +1,4 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Create bookings
-
 
 ## Priority: 10 
 Essential component of the program. User must be able to book appointments with the service provider.
