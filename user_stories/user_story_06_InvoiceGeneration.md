@@ -26,7 +26,7 @@ Description-v1: Create an online receipt as proof of booking and payment.
 5. Email invoice to users, Estimation 1 hour
 
 # UI Design:
-![Payment page when booking](../Images/03_Manage_Payments/01_payment.png)
+![Payment page when booking](../Images/02_Implemented/03_Manage_Payments/01_payment.png)
 
 # Completed:
 Testing will be implemented in further iterations as stripe covers the transaction.

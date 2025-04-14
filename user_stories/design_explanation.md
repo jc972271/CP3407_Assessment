@@ -39,6 +39,7 @@ key that connects back to the user database.
 
 #### Create Bookings
 
+##### Prototype
 ![Select Service Prototype](../Images/01_Prototypes/new_booking/01_select_service_prototype.png)
 ![select_date_time_Prototype](../Images/01_Prototypes/new_booking/02_select_date_time_prototype.png)
 ![enter_address Prototype](../Images/01_Prototypes/new_booking/03_enter_address_prototype.png)
@@ -50,6 +51,7 @@ In our prototype, the booking process is divided across multiple pages to preven
 many fields at once. Each page features a clean and clear layout, making it easy to follow and fill out. A monochrome 
 color scheme was used to maintain a minimal and focused design.
 
+##### Implementation (Iteration 2)
 ![Browse Providers Implementation UI](../Images/02_Implemented/01_Create_Bookings/01_browse_service_providers.png)
 ![Select Service Implementation UI](../Images/02_Implemented/01_Create_Bookings/02_select_service_type_2.png)
 ![Select_cleaner Implementation UI](../Images/02_Implemented/01_Create_Bookings/03_select_cleaner.png)
@@ -67,20 +69,24 @@ with the original design.
 
 #### Track Schedules
 
+##### Prototype
 ![Tracking Bookings Prototype](../Images/01_Prototypes/managebooking_ui.png)
 The Tracking Schedules section is part of our Manage/Edit Booking page, which is discussed in more detail later. 
 This screen displays bookings in a sorted list, with the closest upcoming bookings shown first. In future iterations,
 we are considering introducing a calendar-based UI, depending on client feedback and user needs.
 
+##### Implementation (Iteration 2)
 ![Tracking Bookings Implementation UI](../Images/02_Implemented/07_Edit_Bookings/01_manage_bookings_view.png)
 Our implemented UI closely follows the layout and design of our prototype.
 
 #### Manage Payments
 
+##### Prototype
 ![Payment_Prototype](../Images/01_Prototypes/new_booking/05_payment_prototype.png)
 Payment is done in our new booking process, which we go in detail later. In our prototype, the user has the option of 
 selecting from a range of supported payment methods, and can enter their card in manually if they desire. 
 
+##### Implementation (Iteration 2)
 ![Payment Implemented UI](../Images/02_Implemented/01_Create_Bookings/06_enter_payment_details.png)
 In Iteration 2, the payment page is currently a placeholder and not functional. In future iterations, we plan to 
 integrate a button that redirects users to Stripe’s secure payment page. This integration will handle the entire 
@@ -88,6 +94,7 @@ payment process, including authorization and sending receipts via email.
 
 #### Create Profiles
 
+##### Prototype
 ![User Registration UI prototype](../Images/02_Implemented/04_Create_Profiles/00_login_ui_prototype.png)
 ![User Registration UI prototype v2](../Images/02_Implemented/04_Create_Profiles/00_login_ui_v1.png)
 The login page was designed with a blue, grey and white colour scheme, accompanied by
@@ -97,6 +104,7 @@ of most sign-in/sign-up pages. The fields change depending if the user has an ac
 not by clicking on the link at the bottom. Everything else on the page remains to maintain
 consistency.
 
+##### Implementation (Iteration 2)
 ![User Registration Implemented UI](../Images/02_Implemented/04_Create_Profiles/01_sign_up_new_user.png)
 ![Log in User Implemented UI](../Images/02_Implemented/04_Create_Profiles/02_log_in_user.png)
 The sign-up and log-in pages follow our prototype, with slight adjustments in the color scheme, including a blue hue 
@@ -106,12 +114,14 @@ color scheme used for the admin page.
 
 #### Search 
 
+##### Prototype
 ![Search provider prototype](../Images/01_Prototypes/search_ui_1.png)
 The search page was designed to have very simple functionality with easy to use filters
 and a clean display. The search bar is situated at the top and immediately draws the eye
 so the user can very quickly find what they want. Filters help users narrow their 
 search down even more easily, giving them more control and customisation. 
 
+##### Implementation (Iteration 2)
 ![Search provider Implemented UI v1](../Images/01_Prototypes/search_ui_2.png)
 ![Search_provider Implemented UI v2](../Images/02_Implemented/05_Search/01_search_provider.png)
 Our implemented UI closely follows the layout of our prototype. In Version 2, the interface was updated with rounded 
@@ -121,6 +131,7 @@ elements to enhance visual appeal and improve user-friendliness.
 
 #### Manage Booking
 
+##### Prototype
 ![Manage Booking prototype UI](../Images/01_Prototypes/managebooking_ui.png)
 The Manage Booking page follows our blue, white, and grey color palette. A central tab bar at the top provides access 
 to this section. Bookings are listed in ascending order by date, ensuring that the closest appointments appear first.
@@ -131,27 +142,32 @@ There are three clickable buttons within each booking, each with a distinct colo
 - Cancel (highlighted in red)
 - Contact, which is linked to the cleaner or provider’s information, making it clear that this button is used to reach them.
 
+##### Implementation (Iteration 2)
 ![Manage Booking Implemented UI](../Images/02_Implemented/07_Edit_Bookings/01_manage_bookings_view.png)
 The implemented UI for the Manage booking view closely follows our prototype.
 
 #### Cancel Booking
 
+##### Prototype
 ![Cancel Booking prototype UI](../Images/01_Prototypes/cancelbooking_ui.png)
 The Cancel Booking feature is a simple pop-up interface within the Manage Booking page. It displays the booking details 
 along with a prominent red warning message that includes the $40 cancellation fee, ensuring users do not overlook this 
 crucial information. The Confirm button is also highlighted in red for clarity.
 
+##### Implementation (Iteration 2)
 ![Cancel Booking Implemented UI](../Images/02_Implemented/07_Edit_Bookings/10_cancel_booking_message.png)
 The implemented UI for the Cancel Booking pop-up closely follows our prototype.
 
 #### Edit Booking
 
+##### Prototype
 ![Edit Booking prototype UI](../Images/01_Prototypes/editbooking_ui.png)
 The Edit Booking feature includes four clickable fields, allowing users to modify each aspect of their 
 booking individually: Service Type, Date, Time, and Address—each clearly labeled. A Confirm Changes button in blue 
 ensures users can finalize their updates. Additionally, a Return to Manage Booking button provides a quick way to 
 navigate back to the previous page.
 
+##### Implementation (Iteration 2)
 ![Edit Cleaner Implemented UI](../Images/02_Implemented/07_Edit_Bookings/02_edit_cleaner.png)
 ![Edit Date/Time Implemented UI](../Images/02_Implemented/07_Edit_Bookings/03_edit_date_time.png)
 ![Edit Address Implemented UI](../Images/02_Implemented/07_Edit_Bookings/04_edit_address.png)
@@ -161,6 +177,7 @@ elements users are already familiar with.
 
 #### Messaging 
 
+##### Prototype
 ![Messaging Feature prototype](../Images/01_Prototypes/chat_ui.png)
 From the Manage Booking screen, users can tap Contact to message or call their assigned cleaner or provider 
 for their appointment. The Chat page features a familiar UI, displaying the cleaner’s name in bold along with their 
@@ -177,6 +194,7 @@ UI yet.
 The Reviews feature did not have a prototype UI; instead, it was designed and implemented directly in the current 
 iteration based on team discussions and design guidelines
 
+##### Implementation (Iteration 2)
 ![Review Button Implemented UI](../Images/02_Implemented/09_Reviews/01_view_service_providers.png)
 The option to review service providers is conveniently located on the screen where users select a provider. Button to 
 view all existing reviews are also displayed here. Each service provider has a rating out of 5, calculated as the 
@@ -196,6 +214,7 @@ of the user who submitted it, along with their profile picture if available.
 The Eco-Friendly feature did not have a prototype UI; instead, it was designed and implemented directly in the current 
 iteration based on team discussions and design guidelines.
 
+##### Implementation (Iteration 2)
 ![Eco-Friendly Implemented UI](../Images/02_Implemented/10_Eco_Friendly/01_eco_friendly_icon.png)
 An eco-friendly icon was added to service providers as a visual indicator. The green icon is displayed above the 
 provider’s name.
@@ -205,6 +224,7 @@ provider’s name.
 The Admin Dashboard did not have a prototype UI; instead, it was designed and implemented directly in the current 
 iteration based on team discussions and design guidelines.
 
+##### Implementation (Iteration 2)
 ![Admin Sign Up Implemented UI](../Images/02_Implemented/11_Admin_Dashboard/01_sign_up_admin_account.png)
 To visually distinguish the admin interface from regular user accounts, a purple and black color scheme was used. 
 This choice gives the admin UI a bolder and more professional appearance.

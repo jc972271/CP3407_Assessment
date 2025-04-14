@@ -27,7 +27,7 @@ Description-v2: Allow the client and cleaners to message each other
 3. Develop messaging API, Estimation 1 day
 
 # UI Design:
-![Messaging prototype](../Images/chat_ui.png)   
+![Messaging prototype](../Images/01_Prototypes/chat_ui.png)   
 
 
 # Completed:

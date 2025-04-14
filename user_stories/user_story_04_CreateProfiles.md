@@ -30,29 +30,29 @@ Again, keep all changes here for marking.
 * (New, not in the textbook) 
 * Many user stories are connected to a User interface.
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)  
- [User Registration UI prototype](../Images/04_Create_Profiles/00_login_ui_prototype.png)  
+ [User Registration UI prototype](../Images/02_Implemented/04_Create_Profiles/00_login_ui_prototype.png)  
 [View design explanation](design_explanation.md)
 
 # Completed:
 The login/sign-up page was completed and then developer testing was performed.
 This was the initial design of the sign-up page in bubble:  
-[Sign-up page version 1](../Images/04_Create_Profiles/00_login_ui_v1.png)
+[Sign-up page version 1](../Images/02_Implemented/04_Create_Profiles/00_login_ui_v1.png)
 
 # Testing
 
 ## Developer Testing:
 While testing we entered multiple fake profiles and then checked the database to ensure the profiles were saved.  
 A test account was signed up by filling out each input field.  
-[Sign-up page version 2](../Images/04_Create_Profiles/01_sign_up_new_user.png)  
+[Sign-up page version 2](../Images/02_Implemented/04_Create_Profiles/01_sign_up_new_user.png)  
 The login page was also tested with existing accounts.  
-[Login page](../Images/04_Create_Profiles/02_log_in_user.png)  
+[Login page](../Images/02_Implemented/04_Create_Profiles/02_log_in_user.png)  
 The new user entry was correctly added to the user database after signing up.  
-[User data entry](../Images/04_Create_Profiles/03_database_write.png)  
+[User data entry](../Images/02_Implemented/04_Create_Profiles/03_database_write.png)  
 Here is the structure of the user database:  
-[User databases](../Images/04_Create_Profiles/04_user_datatype.png)  
+[User databases](../Images/02_Implemented/04_Create_Profiles/04_user_datatype.png)  
 After signing up the user is then taken to the home page so that they can easily
 view the functionality of the website (e.g. making a booking, upcoming appointments, etc.)  
-[Home page](../Images/04_Create_Profiles/05_home_page.png) 
+[Home page](../Images/02_Implemented/04_Create_Profiles/05_home_page.png) 
 
 ## User Testing:
 Upon accessing the create profile screen our user was easily able to enter their details and create their profile.

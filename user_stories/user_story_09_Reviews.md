@@ -32,16 +32,16 @@ The search page was completed and then developer testing was performed.
 
 ## Developer testing
 The review is added to the reviews database with all the correct details.  
-![Reviews database](../Images/09_Reviews/04_database_write.png)   
+![Reviews database](../Images/02_Implemented/09_Reviews/04_database_write.png)   
 The structure of the reviews database can also be seen:  
-![Reviews database structure](../Images/09_Reviews/05_reviews_datatype.png) 
+![Reviews database structure](../Images/02_Implemented/09_Reviews/05_reviews_datatype.png) 
 
 ## User Testing
 Users can review a company of their choice on the search page.  
-![Search page](../Images/09_Reviews/01_view_service_providers.png)  
+![Search page](../Images/02_Implemented/09_Reviews/01_view_service_providers.png)  
 The user can write a message and give a star review for the company.  
-![Review](../Images/09_Reviews/02_submit_review.png)  
+![Review](../Images/02_Implemented/09_Reviews/02_submit_review.png)  
 The average star rating of a company will be displayed when trying to book that company.
 The user can also view all of the reviews for a company.   
-![View all reviews](../Images/09_Reviews/03_all_reviews.png)  
+![View all reviews](../Images/02_Implemented/09_Reviews/03_all_reviews.png)  
 
