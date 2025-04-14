@@ -1,6 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Create bookings
 
 
@@ -22,10 +19,7 @@ Assumption 3: Users can book up to 4 weeks in advance.
 Assumption 4: Same day bookings will not be available. 
 
 ## Description:
-Allow users to create appointments efficiently.
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
-
+Description-v1: Allow users to create appointments efficiently.
 
 ## Tasks, see chapter 4.
 
@@ -48,8 +42,15 @@ The booking page was completed and then developer testing was performed.
 ## Developer Testing
 We tested each step of the booking process, ensuring data flows correctly and all the
 information is displayed on the final page correctly.
-In order to test the booking system, a test user account was used to browse different
-bookings that were available.  
+The booking is added to the bookings database so that the user can later track and edit their bookings.
+You can see in the image below that all the details of the testing booking has been successfully
+tracked.  
+[Data entry](../Images/01_Create_Bookings/09_database_write.png)  
+[Booking data structure](../Images/01_Create_Bookings/11_booking_datatype.png)  
+
+## User Testing
+The user first sees the company they want to book on the search page when browsing cleaning
+services.  
 [Browse search result bookings](../Images/01_Create_Bookings/01_browse_service_providers.png)  
 When the user clicks book on one of the search results, it takes them to the booking page.
 The first thing they select is what type of service they want, such as standard, deep or premium.  
@@ -73,8 +74,3 @@ all the details are correct.
 After making the booking, a confirmation pop-up is displayed so that the user knows that
 the booking has been made successfully.  
 [Confirmation](../Images/01_Create_Bookings/08_confirmation_popup.png)  
-The booking is then added to the bookings database so that the user can later track and edit their bookings.
-You can see in the image below that all the details of the testing booking has been successfully
-tracked.  
-[Data entry](../Images/01_Create_Bookings/09_database_write.png)  
-[Booking data structure](../Images/01_Create_Bookings/11_booking_datatype.png)  

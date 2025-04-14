@@ -18,7 +18,7 @@ Again, keep all changes here for marking.
 
 ## Description: e.g. Enable providers to update business details, services, and availability.
 
-* Description-v1: Enable providers to update business details, services, and availability.
+Description-v1: Enable providers to update business details, services, and availability.
 
 ## Tasks, see chapter 4.
 
@@ -43,16 +43,19 @@ This was the initial design of the sign-up page in bubble:
 ## Developer Testing:
 While testing we entered multiple fake profiles and then checked the database to ensure the profiles were saved.  
 A test account was signed up by filling out each input field.  
-[Sign-up page version 2](../Images/04_Create_Profiles/01_sign_up_new_user.png)  
-The login page was also tested with existing accounts.  
-[Login page](../Images/04_Create_Profiles/02_log_in_user.png)  
 The new user entry was correctly added to the user database after signing up.  
 [User data entry](../Images/04_Create_Profiles/03_database_write.png)  
 Here is the structure of the user database:  
 [User databases](../Images/04_Create_Profiles/04_user_datatype.png)  
+
+## User Testing:
+Upon accessing the create profile screen our user was easily able to enter their details and create their profile.  
+[Sign-up page version 2](../Images/04_Create_Profiles/01_sign_up_new_user.png)  
+If the user already had an account they could click on the sign in text prompt to be taken to
+the login page.  
+[Login page](../Images/04_Create_Profiles/02_log_in_user.png)  
 After signing up the user is then taken to the home page so that they can easily
 view the functionality of the website (e.g. making a booking, upcoming appointments, etc.)  
 [Home page](../Images/04_Create_Profiles/05_home_page.png) 
 
-## User Testing:
-Upon accessing the create profile screen our user was easily able to enter their details and create their profile.
+

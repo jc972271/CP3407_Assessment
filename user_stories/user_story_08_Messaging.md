@@ -26,15 +26,10 @@ Description-v2: Allow the client and cleaners to message each other
 2. Create UI, Estimation 0.5 days
 3. Develop messaging API, Estimation 1 day
 
-
-
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![Messaging prototype](../Images/chat_ui.png)   
+
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+To be completed in future iterations.
 

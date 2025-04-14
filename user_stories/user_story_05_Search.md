@@ -12,9 +12,9 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Assumptions (if any):
 
-## Description: Allow users to search by name for a cleaning company
+## Description: 
 
-Description-v1: e.g. Allow users to search by name for a cleaning company
+Description-v1: Allow users to search by name for a cleaning company
 
 ## Tasks, see chapter 4.
 
@@ -38,10 +38,13 @@ The search page was completed and then developer testing was performed.
 To test the search function multiple cleaning companies were added with different details then we 
 tested each filter and the search bar ensuring only the expected cleaning companies showed up.
 The search bar can be used to search for a specific company or a specific keyword.  
-[Search page](../Images/05_Search/01_search_provider.png)  
+![Search page](../Images/05_Search/01_search_provider.png)  
 
 The filters can be used to help narrow down the search, and the testing showed that the
 filters work correctly.
 
 ## User Testing:
+The user was able to easily search for different cleaning companies using the search bar
+and filters.
+[Search Bar](../Images/05_Search/01_search_provider.png) 
 
