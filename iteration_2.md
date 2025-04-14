@@ -13,10 +13,11 @@ User stories or tasks (see chapter 4):
 2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
 3. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
 4. [Eco-friendly Option](./user_stories/user_story_10_Eco-friendly.md), priority 40, 1 day
+5. [Admin Dashboard](./user_stories/user_story_11_AdminDashboard.md), priority 10, 2 days
 
-Total Days: YY
-With Velocity: YY / 0.58 = XX
-Per Person: XX / 4 = 4
+Total Days: 7 Days
+With Velocity: 7 / 0.58 = 12.07 ≈ 12 Days
+Per Person: 12 / 4 = 3 Days
 
 In progress:
 
@@ -59,6 +60,6 @@ Completed:
 Update this at least once per week
 * 4 weeks left, 9 days of estimated amount of work 
 * 2 weeks left, 5 days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 1 weeks left, 3 days
+* 0 weeks left, 1 days
+* Actual Velocity: 0.89 
