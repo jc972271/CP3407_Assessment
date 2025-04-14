@@ -38,7 +38,7 @@ Total: 42 days
 Total: 12 days
 
 
-### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 
+### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 14/04/2025
 Goal is to have 2 iterations during a trimester of teaching.
 1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days 
 2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
