@@ -92,13 +92,19 @@ This enables users to rate services, improving transparency and quality control.
 
 ## Database Design 
 ![User Registration UI](../Images/00_Diagrams/data-flow-diagram.png)
-We decided to use three databases: one for users, one for service providers, and one
-for bookings. For the user database, the email will serve as the primary key as it is
-unique and makes it easy to track each user. In the service provider database, the
-service provider name will be the primary key as that is what differentiates each
-cleaning company. In the booking database the primary key will be a unique booking ID
-as one user could have multiple bookings. The user email however will be the foreign
-key that connects back to the user database. 
+We decided to use five databases: one for users, one for service providers, one for 
+service type, one for bookings and one for reviews. For the user database, the email 
+serves as the primary key as it is unique and makes it easy to track each user. 
+In the service provider database, the service provider name will be the primary key
+as that is what differentiates each cleaning company, and the admin email will be the 
+foreign key that links to the user database. The service type database is connected to 
+the service provider foreign key, with the service type name being the primary key. In 
+the booking database the primary key will be a unique booking ID as one user could have
+multiple bookings. The bookings database will connect to both the user and service provider
+databases through the email foreign key. The reviews database is linked to both the user and 
+service provider databases using the service provider and email as foreign keys. The primary 
+key will be the unique ID for each review, as one user can have multiple reviews and so can
+one service provider.  
 
 ## Interface Design 
 
