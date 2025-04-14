@@ -16,16 +16,10 @@ It is recommended to complete this assignment in a group of 2-4 students.
 4. Salvin George
 
 
-# Project planning BEFORE iteration-1, (see chapters 1-3)
-Checklist/TODOs: 
-* Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [CreateBooking](./user_stories/user_story_01_CreateBookings), priority XX, YY days 
-* ...
+# Project Planning - User Stories.
+[User Stories](./User_stories.md)
 
-Total: YY days
+Total: 42 days
 
 
 ## Iteration 1 [duration 3-4 weeks], 18/02/2025 to 18/03/2025 
