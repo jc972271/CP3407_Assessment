@@ -3,25 +3,92 @@
 ## Architectural Design 
 
 ! [UML Diagram](../Images/00_Diagrams/UML-data-diagram.png)
-We decided to design the system using three main classes based on the core entities 
-of the platform: User, Service Provider, and Booking. These correspond to three separate 
-database tables that handle different aspects of the application logic. For the User class, 
-the email field serves as the primary key, as it is unique to each user and allows easy identification 
-and management. This class includes attributes such as name, isCleaner, and profileImage, allowing the 
-system to distinguish between regular users and cleaners, and store relevant user data. In the ServiceProvider class, 
-the name field acts as the primary key, assuming that service provider names are unique identifiers for each business.
-Other fields such as location, serviceType, price, and logo support the display and filtering of services offered by 
-different cleaning companies. Service providers can list services using the listServices() method. 
+We designed the system architecture around five main classes: **User**, **ServiceProvider**, **ServiceType**, **Booking**, and **Review**. These classes map directly to distinct database tables, reflecting the primary functional components of the platform and supporting clean modularization.
 
-The Booking class represents the connection between users and service providers. A unique booking ID (implied from the diagram)
-would serve as the primary key, since a single user can have multiple bookings. The foreign keys in this class are:
-- The email from the User class, linking the booking back to the user who created it.
-- The service provider name from the ServiceProvider class, indicating which provider is responsible for fulfilling the booking.
+---
 
-Each booking also stores date, status, and paymentStatus to track its progress. The confirmBooking() method allows the booking to
-be updated once payment is made or a provider confirms the service. This class-based structure reflects clean separation of 
-concerns while maintaining strong relationships between users, providers, and their bookings. It supports scalability, 
-allowing new features like cleaner availability or customer reviews to be added in the future. 
+## User Class
+
+The `User` class stores information about all platform users, including regular customers, businesses, and cleaners. 
+The **email** field serves as the primary key, given its uniqueness and reliability for identity and login.
+
+**Attributes:**
+- `email`: String (Primary Key)
+- `name`: String
+- `isCleaner`: Boolean
+- `isBusinessAccount`: Boolean
+- `profileImage`: Image
+- `serviceProvider`: String (Optional FK to `ServiceProvider`)
+- `socialAccounts`: String
+
+This structure supports role-based logic (e.g., cleaner vs. customer) and smooth user management.
+
+---
+
+## ServiceProvider Class
+
+The `ServiceProvider` class represents registered cleaning businesses. The **serviceName** acts as the primary key,
+assuming business names are unique.
+
+**Attributes:**
+- `serviceName`: String (Primary Key)
+- `adminEmail`: String (FK to `User`)
+- `location`: String
+- `basePrice`: Number
+- `isEcoFriendly`: Boolean
+- `logo`: Image
+
+Service providers list offerings through the associated `ServiceType` class.
+
+---
+
+## ServiceType Class
+
+The `ServiceType` class holds information about the various services a provider offers. The **serviceTypeName** serves 
+as the primary key, and `serviceProvider` acts as a foreign key.
+
+**Attributes:**
+- `serviceTypeName`: String (Primary Key)
+- `serviceDescription`: String
+- `serviceDuration`: String
+- `servicePrice`: Number
+- `serviceProvider`: String (FK to `ServiceProvider`)
+
+This structure enables each provider to offer multiple services with customized details.
+
+---
+
+## Booking Class
+
+The `Booking` class captures the interaction between users and service providers. A unique **booking ID** serves as 
+the primary key (implied).
+
+**Attributes:**
+- `address`: String
+- `assignedCleaner`: String (FK to `User` where `isCleaner = true`)
+- `date`: Date
+- `status`: String
+- `serviceType`: String (FK to `ServiceType`)
+- `serviceProvider`: String (FK to `ServiceProvider`)
+- `userEmail`: String (FK to `User`)
+
+This allows for full tracking and lifecycle management of each booking. The `confirmBooking()` method represents 
+transitions in the booking process, such as confirmation or completion.
+
+---
+
+## Review Class
+
+The `Review` class supports user feedback.
+
+**Attributes:**
+- `comment`: String
+- `rating`: Number
+- `date`: Date
+- `userEmail`: String (FK to `User`)
+- `serviceProvider`: String (FK to `ServiceProvider`)
+
+This enables users to rate services, improving transparency and quality control.
 
 ## Database Design 
 ![User Registration UI](../Images/00_Diagrams/data-flow-diagram.png)
