@@ -53,3 +53,28 @@ Total: 18 days
 # Design Choices
 [Design Explanation](user_stories/design_explanation.md)
 
+# Development Tools used
+
+Throughout our project, we demonstrated use of modern software development tools and building platforms to streamline 
+our workflow and improve overall quality. For website development, we used Bubble, a no-code visual development 
+platform that allowed us to rapidly build and deploy fully functional pages. Bubble enabled us to focus on design and 
+functionality without being limited by traditional coding constraints, while still supporting complex logic and backend 
+workflows.
+
+For designing and planning the user interface, we used Figma, a collaborative design tool that helped us prototype most
+of our user stories. Figma was instrumental in mapping out page flows, refining UI components, and ensuring design 
+consistency across all screens. It also allowed for easy communication within the team, as everyone could view and 
+comment on designs in real-time.
+
+# Communication Tools used
+
+For communication and collaboration, we used Discord as our main platform. It allowed us to stay connected and 
+organized throughout the project. We held weekly voice call meetings to plan upcoming tasks, review completed work, and 
+reflect on any challenges, closely following the structure of Agile sprint planning and retrospectives. In addition, we 
+had daily text check-ins, similar to Agile stand-ups, where each team member provided short updates on what they had 
+done, what they were working on next, and any blockers they encountered. This consistent, iterative communication 
+helped us stay flexible, respond quickly to changes, and continuously improve our workflow, all in line with Agile 
+principles.
+
+
+
