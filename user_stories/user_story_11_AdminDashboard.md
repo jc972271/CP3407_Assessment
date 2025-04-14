@@ -1,15 +1,15 @@
 # User story title: Admin Dashboard
 
 ## Priority: 10
-    Essential component to the website. Allows cleaning companies to register their business
-    to MyClean and list their services to customers.
+Essential component to the website. Allows cleaning companies to register their business
+to MyClean and list their services to customers.
 
 ## Estimation: 2 days
 
-1. Liam Whiting -  
-2. Hayden West - 
+1. Liam Whiting -  1.5 days
+2. Hayden West - 1 day
 3. Danny Zaw - 2 days
-4. Salvin George - 
+4. Salvin George - 3 days
 
 ## Assumptions (if any):
 
@@ -29,15 +29,45 @@ or removing services.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
-
-![](Images/managebooking_ui.png)
+User story was added during the iteration as we realised how important it was.
+No prototypes.
 
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
 
+## Developer Testing
+The admin dashboard was tested to ensure all the data is handled and displayed properly.
+Adding new service providers correctly stored the data where it should be. The admins could add
+their own cleaners and service types.
+![Service provider data](../Images/02_Implemented/11_Admin_Dashboard/12_database_write_provider.png)
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/13_database_write_service.png)
+![Add service type](../Images/02_Implemented/11_Admin_Dashboard/14_database_write_user.png)
+
+## User Testing
+When a service provider want to add their business to the website, they must register
+the company through an admin login. This creates a special user account that can add
+a cleaning company.  
+![Admin sign up](../Images/02_Implemented/11_Admin_Dashboard/01_sign_up_admin_account.png)  
+After signing up, the admin can add their cleaning company.  
+![Register Business](../Images/02_Implemented/11_Admin_Dashboard/02_register_new_business.png)  
+The admin must add the business name and location as the first step.  
+![Add details](../Images/02_Implemented/11_Admin_Dashboard/03_add_business_details.png)  
+Next they must add cleaners to the company, which registers the cleaner as a new user.  
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/04_add_first_cleaner.png)  
+After that the admin can add a new service to the company. The new price of the service
+must be filled out as well.
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/05_add_first_service.png)
+The admin can also select the eco-friendly option if their company is eco-friendly.
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/06_add_eco_status.png)
+The logo is then added by the admin.
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/07_add_logo.png)
+After adding all the information about the cleaning company, the service has been successfully
+registered. Users can now find the service provider when searching for a cleaning service.
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/08_register_done.png)
+The admin can now access the admin dashboard which shows them their current cleaners
+and services. Here they can also add new cleaners and services or edit business details.
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/09_admin_dashboard.png)
+The admin can add a new service, fill out the details of the new service and then confirm
+to see a new active service be added to the company.
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/10_add_new_service.png)
+![Add cleaner](../Images/02_Implemented/11_Admin_Dashboard/11_updated_active_services.png)

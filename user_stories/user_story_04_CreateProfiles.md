@@ -2,10 +2,7 @@
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 20 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Priority: 20
 
 ## Estimation: 1 day
 
@@ -16,7 +13,7 @@ Again, keep all changes here for marking.
 
 ## Assumptions (if any):
 
-## Description: e.g. Enable providers to update business details, services, and availability.
+## Description: Enable providers to update business details, services, and availability.
 
 * Description-v1: Enable providers to update business details, services, and availability.
 
@@ -27,25 +24,29 @@ Again, keep all changes here for marking.
 3. Add data validation and error checking, estimation 2 hours
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
- ! [User Registration UI prototype](../Images/login_ui_1.png)
+![User Registration UI prototype](../Images/02_Implemented/04_Create_Profiles/00_login_ui_prototype.png)  
+[View design explanation](design_explanation.md)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+The login/sign-up page was completed and then developer testing was performed.
+This was the initial design of the sign-up page in bubble:  
+![Sign-up page version 1](../Images/02_Implemented/04_Create_Profiles/00_login_ui_v1.png)
 
 # Testing
 
 ## Developer Testing:
-While testing we entered multiple fake profiles and then checked the database to ensure the profiles were saved.
-We entered username, passwords, emails and logo to ensure all types of data is recorded correctly. 
-[User Registration UI](../Images/login_ui_2.png)
-
-If a user already has an account they can click on the log-in button to sign in, and they can go back
-if they don't have an account by clicking the sign-up link.
+While testing we entered multiple fake profiles and then checked the database to ensure the profiles were saved.  
+A test account was signed up by filling out each input field.  
+![Sign-up page version 2](../Images/02_Implemented/04_Create_Profiles/01_sign_up_new_user.png)  
+The login page was also tested with existing accounts.  
+![Login page](../Images/02_Implemented/04_Create_Profiles/02_log_in_user.png)  
+The new user entry was correctly added to the user database after signing up.  
+![User data entry](../Images/02_Implemented/04_Create_Profiles/03_database_write.png)  
+Here is the structure of the user database:  
+![User databases](../Images/02_Implemented/04_Create_Profiles/04_user_datatype.png)  
+After signing up the user is then taken to the home page so that they can easily
+view the functionality of the website (e.g. making a booking, upcoming appointments, etc.)  
+![Home page](../Images/02_Implemented/04_Create_Profiles/05_home_page.png) 
 
 ## User Testing:
 Upon accessing the create profile screen our user was easily able to enter their details and create their profile.

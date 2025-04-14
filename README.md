@@ -1,45 +1,21 @@
 
-How to edit this: test-2025
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
+# cp3407-project-MyClean
 
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+## Team Members
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
-
-## How to submit [You may delete this before submitting]
-
-2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
-1. Submit link to your repository
-2. Download your github repository as a zip file and submit via LearnJCU.
-
-## Team
-
-It is recommended to complete this assignment in a group of 2-4 students.
 1. Liam Whiting
 2. Hayden West
 3. Danny Zaw
 4. Salvin George
 
 
-# Project planning BEFORE iteration-1, (see chapters 1-3)
-Checklist/TODOs: 
-* Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 
-* ...
+# Project Planning - User Stories.
+[User Stories](./User_stories.md)
 
-Total: YY days
+Total: 42 days
 
 
 ## Iteration 1 [duration 3-4 weeks], 18/02/2025 to 18/03/2025 
-
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
 
 1. [Create Bookings](./user_stories/user_story_01_CreateBookings.md), priority 10, 5 days 
 2. [Track Schedules](./user_stories/user_story_02_TrackSchedules.md), priority 20, 2 days
@@ -51,23 +27,54 @@ Total: YY days
 Total: 12 days
 
 
-### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 
-2. ...
+## Iteration 2 [duration 3-4 weeks], 18/03/2025 to 14/04/2025
 
-Total: YY days
+1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days
+2. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
+3. [Eco-friendly Option](./user_stories/user_story_10_Eco-friendly.md), priority 40, 1 day
+4. [Admin Dashboard](./user_stories/user_story_11_AdminDashboard.md), priority 10, 2 days
+
+Total: 7 days
 
 ### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 
-2. ...
+1. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days
+2. Analytics and reporting, Priority 40, 5 days
+3. Inventory management, Priority 40, 2 days
+4. Customer support, Priority 30, 2 days
+5. Recommendation algorithm, Priority 40, 4 days,
+6. Loyalty program, Priority 40, 1 day
 
-Total: YY days
+Total: 18 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
 2. [Iteration-2](./iteration_2.md)
 
 # Design Choices
-[Design Explanation](design_explanation.md)
+[Design Explanation](user_stories/design_explanation.md)
+
+# Development Tools used
+
+Throughout our project, we demonstrated use of modern software development tools and building platforms to streamline 
+our workflow and improve overall quality. For website development, we used Bubble, a no-code visual development 
+platform that allowed us to rapidly build and deploy fully functional pages. Bubble enabled us to focus on design and 
+functionality without being limited by traditional coding constraints, while still supporting complex logic and backend 
+workflows.
+
+For designing and planning the user interface, we used Figma, a collaborative design tool that helped us prototype most
+of our user stories. Figma was instrumental in mapping out page flows, refining UI components, and ensuring design 
+consistency across all screens. It also allowed for easy communication within the team, as everyone could view and 
+comment on designs in real-time.
+
+# Communication Tools used
+
+For communication and collaboration, we used Discord as our main platform. It allowed us to stay connected and 
+organized throughout the project. We held weekly voice call meetings to plan upcoming tasks, review completed work, and 
+reflect on any challenges, closely following the structure of Agile sprint planning and retrospectives. In addition, we 
+had daily text check-ins, similar to Agile stand-ups, where each team member provided short updates on what they had 
+done, what they were working on next, and any blockers they encountered. This consistent, iterative communication 
+helped us stay flexible, respond quickly to changes, and continuously improve our workflow, all in line with Agile 
+principles.
+
+
 
