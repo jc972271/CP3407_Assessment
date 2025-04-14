@@ -1,8 +1,4 @@
-# Actual iteration-1 board, (see chapters 3 and 4), add your start and end dates 
-
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+# Iteration 1 [duration 3-4 weeks], 18/02/2025 to 18/03/2025
 
 * Assumed Velocity: 0.7
 * Number of developers: 4
