@@ -9,11 +9,10 @@ Checklist:
 * Total estimated amount of work: YY days
 
 User stories or tasks (see chapter 4):
-1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days 
-2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
-3. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
-4. [Eco-friendly Option](./user_stories/user_story_10_Eco-friendly.md), priority 40, 1 day
-5. [Admin Dashboard](./user_stories/user_story_11_AdminDashboard.md), priority 10, 2 days
+1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days
+2. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
+3. [Eco-friendly Option](./user_stories/user_story_10_Eco-friendly.md), priority 40, 1 day
+4. [Admin Dashboard](./user_stories/user_story_11_AdminDashboard.md), priority 10, 2 days
 
 Total Days: 7 Days
 With Velocity: 7 / 0.58 = 12.07 ≈ 12 Days
