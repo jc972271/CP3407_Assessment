@@ -1,12 +1,5 @@
 
-How to edit this: test-2025
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
-
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
-
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
+# cp3407-project-MyClean
 
 ## How to submit [You may delete this before submitting]
 
@@ -23,16 +16,10 @@ It is recommended to complete this assignment in a group of 2-4 students.
 4. Salvin George
 
 
-# Project planning BEFORE iteration-1, (see chapters 1-3)
-Checklist/TODOs: 
-* Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 
-* ...
+# Project Planning - User Stories.
+[User Stories](./User_stories.md)
 
-Total: YY days
+Total: 42 days
 
 
 ## Iteration 1 [duration 3-4 weeks], 18/02/2025 to 18/03/2025 
@@ -51,12 +38,15 @@ Total: YY days
 Total: 12 days
 
 
-### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 
+### Iteration 2 [duration 3-4 weeks], 18/03/2025 to 14/04/2025
 Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 
-2. ...
+1. [Edit/delete Bookings](./user_stories/user_story_07_EditBookings), priority 20, 1 days 
+2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
+3. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
+4. [Eco-friendly Option](./user_stories/user_story_10_Eco-friendly.md), priority 40, 1 day
+5. [Admin Dashboard](./user_stories/user_story_11_AdminDashboard.md), priority 10, 2 days
 
-Total: YY days
+Total: 7 days
 
 ### Not enough time/developers: 
 1. [user story title](./user_stories/user_story_01_ManageBookings), priority XX, YY days 

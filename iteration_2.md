@@ -13,10 +13,11 @@ User stories or tasks (see chapter 4):
 2. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days 
 3. [Reviews and Ratings](./user_stories/user_story_09_Reviews), priority 40, 1 day
 4. [Eco-friendly Option](./user_stories/user_story_10_Eco-friendly.md), priority 40, 1 day
+5. [Admin Dashboard](./user_stories/user_story_11_AdminDashboard.md), priority 10, 2 days
 
-Total Days: 5 Days
-With Velocity: 5 / 0.58 = 8.62 ≈ 9 Days
-Per Person: 9 / 4 = 2.25 ≈ 3 Days
+Total Days: 7 Days
+With Velocity: 7 / 0.58 = 12.07 ≈ 12 Days
+Per Person: 12 / 4 = 3 Days
 
 In progress:
 

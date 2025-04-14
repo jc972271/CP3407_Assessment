@@ -1,8 +1,4 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Track schedules
-
 
 ## Priority: 20 
 Not necessarily essential, but it is very important for users to be able to track their bookings for quality of life.
@@ -12,13 +8,13 @@ This also applies to service providers.
 
 1. Liam Whiting - 2 days
 2. Hayden West - 1 day
-3. Danny Zaw - 
+3. Danny Zaw - 2 days
 4. Salvin George - 2 days
 
 ## Assumptions (if any):
 
 ## Description: 
-Provide a calendar-based view for tracking and managing bookings.
+Description-v1: Provide a calendar-based view for tracking and managing bookings.
 
 
 ## Tasks, see chapter 4.
