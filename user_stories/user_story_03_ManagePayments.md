@@ -37,3 +37,8 @@ Again, keep all changes here for marking.
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 
+## Developer Testing
+The manage payments feature was tested by using stripe. The stripe extension on bubble
+handles all of the transaction process.  
+[Browse search result bookings](../Images/03_Manage_Payments/01_payment.png)
+
