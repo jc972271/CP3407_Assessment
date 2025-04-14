@@ -26,7 +26,7 @@ Description-v1: Allow users to search by name for a cleaning company
 
 # UI Design:
 See prototype image and link to design explanation below:   
-[Search page prototype](../Images/01_Prototypes/search_ui_1.png)  
+[Search page prototype](../Images/search_ui_1.png)  
 [View design explanation](design_explanation.md)  
 
 # Completed:
@@ -37,8 +37,8 @@ The search page was completed and then developer testing was performed.
 ## Developer Testing:
 To test the search function multiple cleaning companies were added with different details then we 
 tested each filter and the search bar ensuring only the expected cleaning companies showed up.
-The search bar can be used to search for a specific company or a specific keyword.  
-![Search page](../Images/02_Implemented/05_Search/01_search_provider.png)  
+The search bar can be used to search for a specific company or a specific keyword.   
+![Search page](../Images/05_Search/01_search_provider.png)  
 
 The filters can be used to help narrow down the search, and the testing showed that the
 filters work correctly.
@@ -46,5 +46,5 @@ filters work correctly.
 ## User Testing:
 The user was able to easily search for different cleaning companies using the search bar
 and filters.
-[Search Bar](../Images/02_Implemented/05_Search/01_search_provider.png) 
+[Search Bar](../Images/05_Search/01_search_provider.png) 
 

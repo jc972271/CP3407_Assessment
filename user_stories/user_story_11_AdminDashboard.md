@@ -1,8 +1,8 @@
 # User story title: Admin Dashboard
 
 ## Priority: 10
-    Essential component to the website. Allows cleaning companies to register their business
-    to MyClean and list their services to customers.
+Essential component to the website. Allows cleaning companies to register their business
+to MyClean and list their services to customers.
 
 ## Estimation: 2 days
 

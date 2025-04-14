@@ -1,11 +1,6 @@
 # User story title: Manage Payments
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
-
-## Priority: 10 
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Priority: 10
 
 ## Estimation: 1 day
 
