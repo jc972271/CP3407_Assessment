@@ -25,17 +25,11 @@ Description-v1: Allow the user to filter companies by eco-friendly options
 2. Add functionality to filter, Estimation 2 hours
 3. Allow cleaners to select eco-friendly options, Estimation 2 hour
 
-
-# UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
-
 # Completed:
-[Eco friendly tag](../Images/02_Implemented/10_Eco_Friendly/01_eco_friendly_icon.png) 
+![Eco friendly tag](../Images/02_Implemented/10_Eco_Friendly/01_eco_friendly_icon.png) 
 
 ## Developer Testing
 Eco friendly column was added in the service provider database. When browsing cleaning services
-the user can see the eco-friendly tag above the name to check easily.  
-[Eco friendly tag](../Images/02_Implemented/10_Eco_Friendly/01_eco_friendly_icon.png)  
+the user can see the eco-friendly tag above cleaning companies who are eco-friendly.  
+![Eco friendly tag](../Images/02_Implemented/10_Eco_Friendly/01_eco_friendly_icon.png)  
 
