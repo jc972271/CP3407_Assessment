@@ -2,10 +2,7 @@
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 20 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Priority: 20
 
 ## Estimation: 1 day
 
@@ -16,7 +13,7 @@ Again, keep all changes here for marking.
 
 ## Assumptions (if any):
 
-## Description: e.g. Enable providers to update business details, services, and availability.
+## Description: Enable providers to update business details, services, and availability.
 
 * Description-v1: Enable providers to update business details, services, and availability.
 
