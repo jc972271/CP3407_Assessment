@@ -44,8 +44,13 @@ Total: 7 days
 
 ### Not enough time/developers: 
 1. [Client Communication](./user_stories/user_story_08_Messaging), priority 30, 2 days
+2. Analytics and reporting, Priority 40, 5 days
+3. Inventory management, Priority 40, 2 days
+4. Customer support, Priority 30, 2 days
+5. Recommendation algorithm, Priority 40, 4 days,
+6. Loyalty program, Priority 40, 1 day
 
-Total: YY days
+Total: 18 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
