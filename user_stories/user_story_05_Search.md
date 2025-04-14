@@ -12,9 +12,9 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Assumptions (if any):
 
-## Description: Allow users to search by name for a cleaning company
+## Description: 
 
-Description-v1: e.g. Allow users to search by name for a cleaning company
+Description-v1: Allow users to search by name for a cleaning company
 
 ## Tasks, see chapter 4.
 

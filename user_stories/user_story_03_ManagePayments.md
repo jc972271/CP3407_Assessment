@@ -16,15 +16,15 @@ Again, keep all changes here for marking.
 
 ## Assumptions (if any):
 
-## Description: e.g. Process payments securely, including invoices and transaction history.
+## Description:
 
-* Description-v1: Process payments securely, including invoices and transaction history.
+Description-v1: Process payments securely, including invoices and transaction history.
 
 ## Tasks, see chapter 4.
 
-1. Implement secure payment processing, Estimation XX days
-2. Implement error handling and validation, Estimation XX days
-3. Generate UI, Estimation XX days
+1. Implement secure payment processing, Estimation 1 hour
+2. Implement error handling and validation, Estimation 1 hour
+3. Generate UI, Estimation 1 hour
 
 
 # UI Design:

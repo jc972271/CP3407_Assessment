@@ -1,6 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Create bookings
 
 
@@ -22,10 +19,7 @@ Assumption 3: Users can book up to 4 weeks in advance.
 Assumption 4: Same day bookings will not be available. 
 
 ## Description:
-Allow users to create appointments efficiently.
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
-
+Description-v1: Allow users to create appointments efficiently.
 
 ## Tasks, see chapter 4.
 

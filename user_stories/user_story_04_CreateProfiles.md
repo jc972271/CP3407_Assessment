@@ -18,7 +18,7 @@ Again, keep all changes here for marking.
 
 ## Description: e.g. Enable providers to update business details, services, and availability.
 
-* Description-v1: Enable providers to update business details, services, and availability.
+Description-v1: Enable providers to update business details, services, and availability.
 
 ## Tasks, see chapter 4.
 
