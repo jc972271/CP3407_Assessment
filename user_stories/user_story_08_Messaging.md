@@ -10,7 +10,7 @@
 
 1. Liam Whiting - 2 days
 2. Hayden West - 2 days
-3. Danny Zaw - 
+3. Danny Zaw - 2 days
 4. Salvin George - 3 days
 
 ## Assumptions (if any):
